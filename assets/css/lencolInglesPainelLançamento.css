@@ -1,0 +1,31 @@
+ .rodape{
+                
+                padding:20px;
+                background-color: black;
+                justify-content: center;   
+                width: 100%;
+                color: #fff;
+                text-align: center;
+                
+               
+
+        }
+
+        .rodape>h2{
+                 color: #fff;
+                 font-family: italic;
+                 text-align: center;
+        }
+
+       
+        
+        .rodape>h5{
+                 
+                color: #fff; 
+               
+                
+        }        
+        .fa-facebook-official{
+
+                color: #fff; 
+        }

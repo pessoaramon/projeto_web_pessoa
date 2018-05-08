@@ -1,0 +1,145 @@
+
+
+.cabecalho{
+        background-image: url(../img/fundao.jpeg);
+        background-attachment: fixed; /*a imagem fica fixa a pagina rola*/
+        background-repeat: no-repeat;
+        background-size: cover; /*a imagem vai cobrir toda a area do bloco*/
+        height: 500px;
+   
+}
+
+.navbar-nav{
+
+        color:white;
+        font-family: italic;
+ }
+.navbar-inverse>.container>.nav>li>a{
+        color:white;
+}
+.navbar-inverse>.container>.nav>li>a:hover{
+        color:#bbb;
+}
+
+.navbar-inverse{
+
+         background-color:rgba(100,100,100,0.2);
+         border-color: rgba(100,100,100,0.2);
+}
+
+
+#itens ul li{
+        font-size: 15px;
+        display: inline-block;
+}  
+#itens ul li  a { 
+       color: white;
+       padding: 12px;
+       font-size: 14px;
+       border: 2px transparent solid;
+}
+.nome-site{
+        text-align:left;
+        color:rgba(255, 255, 255, 0.932);
+}
+.carousel img {
+       width: 1140px;
+       height: 337px;
+}
+.container>h3{
+        font-family: italic;
+        text-align: center;
+}
+.container-imagens>h2{
+        font-family: italic;
+        text-align:center;
+        color:white;
+        text-shadow:2px 2px 3px #CCCCCC;
+}
+.imagens{
+        height: 50%;
+}
+.thumbnail{
+        
+        background-color: #305a36;
+ }
+ .thumbnail>p{
+        
+         color:white;
+}
+
+
+.container-imagens{
+        padding-top: 5px;
+        padding-bottom: auto;
+        background-color: grey;
+        padding: 20px;
+        margin-top: 20px
+}
+.carousel-inner{
+        margin-top: 20px;
+        border:8px solid white;
+        box-shadow: 2px 2px 6px #000000;
+}
+.rodape{
+        padding:20px;
+        background-color: black;
+        justify-content: center;   
+        width: 100%;
+        color: #fff;
+        text-align: center;
+}
+.rodape>h2{
+         color: #fff;
+         font-family: italic;
+         text-align: center;
+}
+.rodape>h5{
+        color: #fff;
+}        
+.fa-facebook-official{
+        color: #fff;
+}
+.container>h1{
+        text-align: center;
+        color:white ;
+        background-color: green;
+        font-family: italic;
+}
+.thumbnail>h3{
+        color:white;
+}
+.btn-primary{
+        background-color:green;
+        border-color:green;
+}
+
+.fa-instagram{
+        color:white;
+}
+.fa-whatsapp{
+
+
+        color:green;
+}
+.fa-envelope-o>{
+
+        color:white;  
+}
+a{
+        color:white;        
+}
+.mudar:hover{
+
+        background-color: green;
+}
+
+.mudar:active{
+
+        background-color: green;
+}
+
+
+         
+
+

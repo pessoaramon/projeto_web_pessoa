@@ -1,0 +1,195 @@
+.quem-somos{
+    background-image: url(../img/tv-machine-sew-76240.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+    padding-top: 100px;
+    background-attachment: fixed;
+    /* text-align: center; */
+    margin-top: 50px;
+   
+    
+
+}
+.quem-somos>h1{
+    text-align: center;
+    margin-top: 0px;
+    color:white;
+    padding-top: 0px;
+    
+}
+.quem-somos>p{
+    color:white;
+    text-align: center;
+    width:800px;
+    font-size: 18px;
+    
+    margin:0 auto;
+    margin-top: 0px;
+}
+
+.navbar-inverse {
+
+    background-color: green;
+    border:green;
+    
+
+
+}
+
+.container-superking>h3{
+
+text-align: center;
+
+
+}
+.lençois-superking1{
+
+
+    display: flex;
+    justify-content: center;
+    
+    margin-right: 30px;
+
+   
+
+
+}
+
+ .bloco1{
+/* margin:80px;    */
+max-width: 450px;
+text-align: center;
+color:white;
+
+ border:8px solid white;
+box-shadow: 2px 2px 6px #000000; 
+margin: 20px;
+ background-color: #91B496;
+max-width: 450px;
+
+}
+.bloco1 img{
+ /* width:100%;
+height: 100% ;  */
+  width: 435px;
+height: 300px;  
+
+} 
+
+
+.rodape{
+                margin-top: 20px;
+                padding:20px;
+                background-color: black;
+                justify-content: center;   
+                width: 100%;
+        }
+
+        .rodape>h2{
+                 color: #fff;
+                 font-family: italic;
+                 text-align: center;
+        }
+
+        .rodape>p{
+
+                text-align: center;
+                color: grey;
+        }
+            .navbar-nav{
+
+                color: #fff;
+                 font-family: italic;
+                 text-align: center;
+         }
+       .container-superking>h1{
+        /* text shadow causa efeito de sombran o texto   */
+        text-shadow:2px 2px 3px #CCCCCC; 
+        text-align: center;
+        font-family: italic;
+         background-color:green;
+         /* rgb(73, 71, 71); */
+        /* background-color: #BCBCBC; */
+        color: #fff;
+        
+       }
+
+       .btn-primary{
+             background-color:   green; 
+            margin-top: 20px;
+            border-color: green;
+            
+         }
+         .btn-primary:hover {
+            color: #fff;
+            background-color: green;
+            border-color: green;
+          }
+
+          h1{
+              text-shadow:2px 2px 3px #CCCCCC; 
+      
+          }
+         h1{
+      
+          font-family: italic; 
+          /* estilização na fonte da pagina do produto especifico do painel lancamentos que pode servir para todos os produtos especificos de todas as paginas */
+       
+         }
+      
+         .rodape{
+          
+          padding:20px;
+          background-color: black;
+          justify-content: center;   
+          width: 100%;
+          color: #fff;
+          text-align: center;
+          
+         
+      
+      }
+      
+      .rodape>h2{
+           color: #fff;
+           font-family: italic;
+           text-align: center;
+      }
+      
+      
+      
+      .rodape>h5{
+           
+          color: #fff; 
+         
+          
+      }        
+      .fa-instagram{
+        color:white;
+}
+.fa-whatsapp{
+
+
+        color:green;
+}
+.fa-envelope-o>{
+
+        color:white;  
+}
+
+.mudar:hover{
+
+        background-color: green;
+}
+
+.mudar:active{
+
+        background-color: green;
+}
+    h3>a{
+        color:white;
+    }
+
+      
