@@ -122,18 +122,6 @@
             <a href="lençollançamentoBox8.php" target="blank"> <button class="btn btn-primary mudar">Clique e confira</button></a>
     </div>
   </div>
-  
-  
-  
-  </div>
-
-
-
+ </div>
 </div>
-  
-  
-      
-      
-
-  
 <?php include'rodapeIndex.php';?>
